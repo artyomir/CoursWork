@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/maps">
+        <file>corp1MAP.svg</file>
+        <file>corp2MAP.svg</file>
+        <file>corp3MAP.svg</file>
+        <file>corp1FLOOR.svg</file>
+        <file>corp2FLOOR.svg</file>
+        <file>corp3FLOOR.svg</file>
+    </qresource>
+    <qresource prefix="/fill">
+        <file>HSE.svg</file>
+        <file>ICON.png</file>
+    </qresource>
+    <qresource prefix="/Objects">
+        <file>corp1OBJ.svg</file>
+        <file>corp2OBJ.svg</file>
+        <file>corp3OBJ.svg</file>
+        <file>corp1FloorOBJ.svg</file>
+        <file>corp2FloorOBJ.svg</file>
+        <file>corp3FloorOBJ.svg</file>
+    </qresource>
+</RCC>
