@@ -20,7 +20,7 @@ RoomLabel::RoomLabel(QRectF field, QVector <QPoint> &coordinates, QString name, 
                               br.at(1).toInt(),
                               br.at(2).toInt(),
                               br.at(3).toInt()));
-    polyItem->setFlag(QGraphicsItem::ItemIsSelectable);
+    //polyItem->setFlag(QGraphicsItem::ItemIsSelectable);
     //polyItem->is
 }
 
